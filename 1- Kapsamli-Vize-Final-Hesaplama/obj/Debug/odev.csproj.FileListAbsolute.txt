@@ -1,0 +1,20 @@
+C:\Users\ibrah\Desktop\1912901060\bin\Debug\odev.exe.config
+C:\Users\ibrah\Desktop\1912901060\bin\Debug\odev.exe
+C:\Users\ibrah\Desktop\1912901060\bin\Debug\odev.pdb
+C:\Users\ibrah\Desktop\1912901060\obj\Debug\odev.csprojAssemblyReference.cache
+C:\Users\ibrah\Desktop\1912901060\obj\Debug\odev.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\1912901060\obj\Debug\odev.exe
+C:\Users\ibrah\Desktop\1912901060\obj\Debug\odev.pdb
+C:\Users\ibrah\Desktop\Yazilim\1912901060\bin\Debug\odev.exe.config
+C:\Users\ibrah\Desktop\Yazilim\1912901060\bin\Debug\odev.exe
+C:\Users\ibrah\Desktop\Yazilim\1912901060\bin\Debug\odev.pdb
+C:\Users\ibrah\Desktop\Yazilim\1912901060\obj\Debug\odev.csprojAssemblyReference.cache
+C:\Users\ibrah\Desktop\Yazilim\1912901060\obj\Debug\odev.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\Yazilim\1912901060\obj\Debug\odev.exe
+C:\Users\ibrah\Desktop\Yazilim\1912901060\obj\Debug\odev.pdb
+D:\OneDrive - ogr.mehmetakif.edu.tr\Üniversite\2. Sene\1. Dönem\Nesne Tabanlı Programlama\Vize\1912901060\bin\Debug\odev.exe.config
+D:\OneDrive - ogr.mehmetakif.edu.tr\Üniversite\2. Sene\1. Dönem\Nesne Tabanlı Programlama\Vize\1912901060\bin\Debug\odev.exe
+D:\OneDrive - ogr.mehmetakif.edu.tr\Üniversite\2. Sene\1. Dönem\Nesne Tabanlı Programlama\Vize\1912901060\bin\Debug\odev.pdb
+D:\OneDrive - ogr.mehmetakif.edu.tr\Üniversite\2. Sene\1. Dönem\Nesne Tabanlı Programlama\Vize\1912901060\obj\Debug\odev.csproj.CoreCompileInputs.cache
+D:\OneDrive - ogr.mehmetakif.edu.tr\Üniversite\2. Sene\1. Dönem\Nesne Tabanlı Programlama\Vize\1912901060\obj\Debug\odev.exe
+D:\OneDrive - ogr.mehmetakif.edu.tr\Üniversite\2. Sene\1. Dönem\Nesne Tabanlı Programlama\Vize\1912901060\obj\Debug\odev.pdb
